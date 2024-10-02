@@ -1,1 +1,2 @@
 This is a file on GitHub!
+Changed GitHub text file locally!
